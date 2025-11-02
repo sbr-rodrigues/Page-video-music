@@ -43,4 +43,3 @@ Este projeto é apenas para fins de estudo e homenagem. Todos os direitos sobre 
 Sabrina Rodrigues
 💫 “Só para conhecê-lo e aguardar minha vida…”
 
-Se quiser, posso te ajudar a criar uma versão em inglês também. E se quiser colocar esse site no ar com GitHub Pages, é só me chamar! 🌌
